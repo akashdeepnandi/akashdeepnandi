@@ -38,7 +38,7 @@
 <br />
 
 ---
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=akashdeepnandi)](https://github.com/akashdeepnandi)
+![Akashdeep's github stats](https://github-readme-stats.vercel.app/api?username=akashdeepnandi&show_icons=true&theme=radical)
 ---
 
 [instagram]: https://www.instagram.com/mr.void15/
